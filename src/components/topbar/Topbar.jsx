@@ -1,6 +1,6 @@
 import "./topbar.scss";
 
-export default function Topbar({ menuOpen, setMenuOpen }) {
+ function Topbar({ menuOpen, setMenuOpen }) {
   return (
     <div className={"topbar " + (menuOpen && "active")}>
       <div className="wrapper">
@@ -20,3 +20,4 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
     </div>
   );
 }
+export default Topbar
