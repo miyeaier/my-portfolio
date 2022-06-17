@@ -6,7 +6,7 @@ import "./topbar.scss";
       <div className="wrapper">
         <div className="left">
           <a href="#intro" className="logo">
-            MiyesierKaerman
+          Outsider.
           </a>
         </div>
         <div className="right">

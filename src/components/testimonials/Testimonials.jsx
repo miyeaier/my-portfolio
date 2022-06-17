@@ -14,13 +14,13 @@ function Testimonials() {
     },
     {
       id: 2,
-      name: "Alex Kalinski",
-      title: "Co-Founder of DELKA",
+      name: "Elux Yilisuya",
+      title: "CEO of Lovalot",
       img:
-        "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "assets/112.png",
         icon: "assets/linkedin.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
+        "Miyesier Kaerman is a dedicated and fun person to work with. She’s punctual and deliver task within the time frame. More over, she’s curious person with multi talents and always thinks outside the box. ",
       featured: true,
     },
     {
