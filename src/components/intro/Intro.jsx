@@ -1,8 +1,7 @@
 import "./intro.scss";
-import { useRef } from "react";
+
 
 function Intro() {
-  const textRef = useRef();
 
   return (
     <div className="intro" id="intro">
