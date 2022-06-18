@@ -14,7 +14,7 @@ function Intro() {
         <div className="wrapper">
           <h2>Hi There, I'm</h2>
           <h1>Miyesier Kaerman</h1>
-          <h3>front-end developer</h3>
+          <h3>Junior front-end developer</h3>
         </div>
         <a href="#portfolio">
           <img src="assets/down.png" alt="" />
