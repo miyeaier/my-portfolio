@@ -4,7 +4,7 @@ function Testimonials() {
   const data = [
     {
       id: 1,
-      name: "Gabriel Christner",
+      name: "Gabriel C",
       title: "CEO på Dreamify",
       img: "assets/gbr-D.png",
       icon: "assets/linkedin.png",
